@@ -53,7 +53,7 @@ namespace App1
             List<TestInput> inputs = new List<TestInput>();
             int i = 0;
 
-            while (i <= 15)
+            while (i <= 20)
             {
                 TestInput testInput = new TestInput();
                 testInput.Title = "Title " + i.ToString();
